@@ -1,0 +1,11 @@
+# Bubble Sort Visualizer (Python + Tkinter)
+This project visualizes how Bubble Sort works using Python's Tkinter GUI library.
+
+## How it works
+- Enter numbers separated by spaces.
+- Click **Start Bubble Sort** to see the sorting animation.
+- Bars change color while comparing and swapping.
+
+## Technologies Used
+- Python 3
+- Tkinter
